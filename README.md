@@ -3,7 +3,7 @@
 This repository holds the 3D models, audio and UI images used by **Cyborg Chess**, my entry for the
 Base44 x Nitro Web Game Contest.
 
-- **Game (built in Base44):** https://analytic-model-mesh-mate.base44.app/
+- **Game (built in Base44):** https://analytic-model-mesh-mate.base44.app/ (  https://cyborg-chess.base44.app/ )
 - **Author / owner:** KaivanETH. This repository and the Base44 app belong to the same person.
 - **Why the assets are here:** Base44 loads 3D models from a public URL, so the GLB, audio and image files are
   hosted here and served via jsDelivr. The game itself (all game code, rules, UI and menus) was built
