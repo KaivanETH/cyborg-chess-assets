@@ -24,6 +24,10 @@ All assets were made from scratch for this game. None were downloaded from asset
 | Fonts (loaded by the game) | Google Fonts, e.g. Lilita One | SIL Open Font License |
 | Code libraries (used by the game) | three.js with GLTFLoader, DRACOLoader, SkeletonUtils | MIT |
 
+**Making-of proof:** the [`provenance/`](provenance/) folder shows each character in three steps:
+concept image, then raw image-to-3D output, then the final model used in the game. I keep the raw source files
+(prompts, raw meshes, .blend files) privately and can share them with the contest organisers on request.
+
 **AI assistance:** I used Claude (Anthropic's AI assistant) to help write the game-design specs that I
 gave to the Base44 AI builder, and to write the Blender scripts that made the assets above. Under Anthropic's
 terms, the output belongs to me. No code from Claude was imported into the game as a separate project. The game
